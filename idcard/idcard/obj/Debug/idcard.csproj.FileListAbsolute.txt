@@ -1,0 +1,4 @@
+D:\F\VS\idcard\idcard\bin\Debug\idcard.dll
+D:\F\VS\idcard\idcard\bin\Debug\idcard.pdb
+D:\F\VS\idcard\idcard\obj\Debug\idcard.dll
+D:\F\VS\idcard\idcard\obj\Debug\idcard.pdb
